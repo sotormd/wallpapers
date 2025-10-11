@@ -4,6 +4,8 @@ Exposes wallpapers in `wallpapers/` as nix paths.
 
 For example, `wallpapers/nord/mario.png` is `lib.wallpapers.nord.mario`.
 
+See [preview.md](./preview.md) for all wallpapers.
+
 # Sources
 
 - [linuxdotexe:nordic-wallpapers](https://github.com/linuxdotexe/nordic-wallpapers/)
