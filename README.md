@@ -8,7 +8,7 @@ See [preview.md](./preview.md) for all wallpapers.
 
 # Usage
 
-1. Add `sotormd:wallpapers` as a flake input
+1. Add `github:sotormd/wallpapers` as a flake input
 
    Also add `inherit (wallpapers.lib) wallpapers` in the `specialArgs` of your NixOS configuration outputs.
 
@@ -97,9 +97,9 @@ See [preview.md](./preview.md) for all wallpapers.
 
 # Sources
 
-- [linuxdotexe:nordic-wallpapers](https://github.com/linuxdotexe/nordic-wallpapers/)
+- [linuxdotexe/nordic-wallpapers](https://github.com/linuxdotexe/nordic-wallpapers/)
 - [gruvbox-wallpapers.pages.dev](https://gruvbox-wallpapers.pages.dev/)
 - [unsplash](https://unsplash.com/)
 
-Some wallpapers were recolored using [sotormd:nordify](https://github.com/sotormd/nordify).
+Some wallpapers were recolored using [sotormd/nordify](https://github.com/sotormd/nordify).
 
