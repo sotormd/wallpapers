@@ -58,7 +58,7 @@ See [preview.md](./preview.md) for all wallpapers.
               # example entry point to configuration
               ./hosts/example.nix
 
-              # home manager - to declaratively manager home directory
+              # home manager - to declaratively manage home directory
               home-manager.nixosModules.home-manager
 
               # other modules here
