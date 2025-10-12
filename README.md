@@ -85,7 +85,7 @@ See [preview.md](./preview.md) for all wallpapers.
 
      {
        home-manager.users.myUsername = {
-         wayland.windowManager.sway.config.output.bg = "${wallpapers.nord.building} fill";
+         wayland.windowManager.sway.config.output."*".bg = "${wallpapers.nord.building} fill";
        };
      }
     ```
