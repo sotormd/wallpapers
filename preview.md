@@ -87,9 +87,6 @@
 `wallpapers.gruvbox.plan9`
 ![](./wallpapers/gruvbox/plan9.png)
 
-`wallpapers.gruvbox.port`
-![](./wallpapers/gruvbox/port.png)
-
 `wallpapers.gruvbox.recharge`
 ![](./wallpapers/gruvbox/recharge.png)
 
@@ -101,9 +98,6 @@
 
 `wallpapers.gruvbox.soupkong`
 ![](./wallpapers/gruvbox/soupkong.png)
-
-`wallpapers.gruvbox.space`
-![](./wallpapers/gruvbox/space.png)
 
 `wallpapers.gruvbox.spacestation`
 ![](./wallpapers/gruvbox/spacestation.png)
@@ -135,6 +129,9 @@
 `wallpapers.nord.car`
 ![](./wallpapers/nord/car.png)
 
+`wallpapers.nord.casette`
+![](./wallpapers/nord/casette.png)
+
 `wallpapers.nord.coffee`
 ![](./wallpapers/nord/coffee.png)
 
@@ -161,6 +158,9 @@
 
 `wallpapers.nord.firehydrant`
 ![](./wallpapers/nord/firehydrant.png)
+
+`wallpapers.nord.geometric`
+![](./wallpapers/nord/geometric.png)
 
 `wallpapers.nord.greekgod`
 ![](./wallpapers/nord/greekgod.png)
@@ -207,6 +207,9 @@
 `wallpapers.nord.panic`
 ![](./wallpapers/nord/panic.png)
 
+`wallpapers.nord.phi`
+![](./wallpapers/nord/phi.png)
+
 `wallpapers.nord.plan9`
 ![](./wallpapers/nord/plan9.png)
 
@@ -215,6 +218,12 @@
 
 `wallpapers.nord.recharge`
 ![](./wallpapers/nord/recharge.png)
+
+`wallpapers.nord.rose`
+![](./wallpapers/nord/rose.png)
+
+`wallpapers.nord.satellite`
+![](./wallpapers/nord/satellite.png)
 
 `wallpapers.nord.slackware`
 ![](./wallpapers/nord/slackware.png)
@@ -233,6 +242,9 @@
 
 `wallpapers.nord.street`
 ![](./wallpapers/nord/street.png)
+
+`wallpapers.nord.tower`
+![](./wallpapers/nord/tower.png)
 
 `wallpapers.nord.trees`
 ![](./wallpapers/nord/trees.png)
@@ -288,9 +300,6 @@
 `wallpapers.rose-pine.camera`
 ![](./wallpapers/rose-pine/camera.png)
 
-`wallpapers.rose-pine.car`
-![](./wallpapers/rose-pine/car.png)
-
 `wallpapers.rose-pine.coffee`
 ![](./wallpapers/rose-pine/coffee.png)
 
@@ -333,20 +342,11 @@
 `wallpapers.rose-pine.opensuse`
 ![](./wallpapers/rose-pine/opensuse.png)
 
-`wallpapers.rose-pine.paint`
-![](./wallpapers/rose-pine/paint.png)
-
 `wallpapers.rose-pine.panic`
 ![](./wallpapers/rose-pine/panic.png)
 
 `wallpapers.rose-pine.plan9`
 ![](./wallpapers/rose-pine/plan9.png)
-
-`wallpapers.rose-pine.port`
-![](./wallpapers/rose-pine/port.png)
-
-`wallpapers.rose-pine.recharge`
-![](./wallpapers/rose-pine/recharge.png)
 
 `wallpapers.rose-pine.slackware`
 ![](./wallpapers/rose-pine/slackware.png)
@@ -356,9 +356,6 @@
 
 `wallpapers.rose-pine.soupkong`
 ![](./wallpapers/rose-pine/soupkong.png)
-
-`wallpapers.rose-pine.space`
-![](./wallpapers/rose-pine/space.png)
 
 `wallpapers.rose-pine.spacestation`
 ![](./wallpapers/rose-pine/spacestation.png)
