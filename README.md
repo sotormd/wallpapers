@@ -8,7 +8,9 @@ See [preview.md](./preview.md) for all wallpapers.
 
 # Usage
 
-1. Add `sotormd:wallpapers` as a flake input, and `inherit (wallpapers.lib) wallpapers` in the `specialArgs` of your NixOS configuration outputs.
+1. Add `sotormd:wallpapers` as a flake input
+
+   Also add `inherit (wallpapers.lib) wallpapers` in the `specialArgs` of your NixOS configuration outputs.
 
    <details>
    <summary>Click to expand example</summary>
@@ -75,7 +77,9 @@ See [preview.md](./preview.md) for all wallpapers.
    ```
    </details>
 
-2. Use the wallpapers in your configuration. For example, to use `wallpapers/nord/building.png`, the nix expression is `wallpapers.nord.building`.
+4. Use the wallpapers in your configuration.
+
+   For example, to use `wallpapers/nord/building.png`, the nix expression is `wallpapers.nord.building`.
   
    <details>
     <summary>Click to expand example</summary>
