@@ -1,5 +1,29 @@
 # Preview
 
+`wallpapers.oc.arch-nord`
+![](./wallpapers/oc/arch-nord.png)
+
+`wallpapers.oc.arch`
+![](./wallpapers/oc/arch.png)
+
+`wallpapers.oc.btw-nord`
+![](./wallpapers/oc/btw-nord.png)
+
+`wallpapers.oc.btw`
+![](./wallpapers/oc/btw.png)
+
+`wallpapers.oc.mint-nord`
+![](./wallpapers/oc/mint-nord.png)
+
+`wallpapers.oc.mint`
+![](./wallpapers/oc/mint.png)
+
+`wallpapers.oc.suse-nord`
+![](./wallpapers/oc/suse-nord.png)
+
+`wallpapers.oc.suse`
+![](./wallpapers/oc/suse.png)
+
 `wallpapers.nord.arch`
 ![](./wallpapers/nord/arch.png)
 
@@ -299,30 +323,6 @@
 
 `wallpapers.gruvbox.street`
 ![](./wallpapers/gruvbox/street.png)
-
-`wallpapers.oc.arch-nord`
-![](./wallpapers/oc/arch-nord.png)
-
-`wallpapers.oc.arch`
-![](./wallpapers/oc/arch.png)
-
-`wallpapers.oc.btw-nord`
-![](./wallpapers/oc/btw-nord.png)
-
-`wallpapers.oc.btw`
-![](./wallpapers/oc/btw.png)
-
-`wallpapers.oc.mint-nord`
-![](./wallpapers/oc/mint-nord.png)
-
-`wallpapers.oc.mint`
-![](./wallpapers/oc/mint.png)
-
-`wallpapers.oc.suse-nord`
-![](./wallpapers/oc/suse-nord.png)
-
-`wallpapers.oc.suse`
-![](./wallpapers/oc/suse.png)
 
 `wallpapers.rose-pine.arch`
 ![](./wallpapers/rose-pine/arch.png)
