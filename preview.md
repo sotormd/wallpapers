@@ -153,6 +153,9 @@
 `wallpapers.nord.recharge`
 ![](./wallpapers/nord/recharge.png)
 
+`wallpapers.nord.retrogirl`
+![](./wallpapers/nord/retrogirl.png)
+
 `wallpapers.nord.roadside`
 ![](./wallpapers/nord/roadside.png)
 
@@ -309,6 +312,9 @@
 `wallpapers.gruvbox.recharge`
 ![](./wallpapers/gruvbox/recharge.png)
 
+`wallpapers.gruvbox.retrogirl`
+![](./wallpapers/gruvbox/retrogirl.png)
+
 `wallpapers.gruvbox.slackware`
 ![](./wallpapers/gruvbox/slackware.png)
 
@@ -390,6 +396,9 @@
 `wallpapers.rose-pine.plan9`
 ![](./wallpapers/rose-pine/plan9.png)
 
+`wallpapers.rose-pine.retrogirl`
+![](./wallpapers/rose-pine/retrogirl.png)
+
 `wallpapers.rose-pine.slackware`
 ![](./wallpapers/rose-pine/slackware.png)
 
@@ -404,4 +413,7 @@
 
 `wallpapers.rose-pine.street`
 ![](./wallpapers/rose-pine/street.png)
+
+`wallpapers.misc.retrogirl`
+![](./wallpapers/misc/retrogirl.png)
 

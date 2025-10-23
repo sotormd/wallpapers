@@ -17,10 +17,14 @@ mapfile -t nord_files < <(find "$WALL_DIR/nord" -type f -name '*.png' | sort)
 # then: png files in other directories
 mapfile -t other_files < <(find "$WALL_DIR" -type f -name '*.png' \
     ! -path "$WALL_DIR/oc/*" \
-    ! -path "$WALL_DIR/nord/*" | sort)
+    ! -path "$WALL_DIR/nord/*" \
+    ! -path "$WALL_DIR/misc/*" | sort)
+
+# then: png files in wallpapers/misc
+mapfile -t misc_files < <(find "$WALL_DIR/misc" -type f -name '*.png' | sort)
 
 # combine all arrays
-files=("${oc_files[@]}" "${nord_files[@]}" "${other_files[@]}")
+files=("${oc_files[@]}" "${nord_files[@]}" "${other_files[@]}" "${misc_files[@]}")
 
 for file in "${files[@]}"; do
     relpath="${file#./}"
