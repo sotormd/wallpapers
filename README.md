@@ -1,5 +1,7 @@
 # Wallpapers Flake
 
+![Archived](https://img.shields.io/badge/status-archived-red)
+
 Exposes wallpapers in `wallpapers/` as nix expressions.
 
 For example, `wallpapers/nord/mario.png` is `wallpapers.nord.mario`.
